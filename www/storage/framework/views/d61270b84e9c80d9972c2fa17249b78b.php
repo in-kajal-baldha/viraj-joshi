@@ -1,0 +1,1 @@
+<?php /**PATH D:\OSPanel\domains\viraj_joshi\www\resources\views/frontend/layouts/navbar.blade.php ENDPATH**/ ?>

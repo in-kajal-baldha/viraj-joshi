@@ -1,0 +1,365 @@
+@media (max-width: 1200px) {
+    .main-banner-section .inquery-form-main {
+        width: 45%;
+        padding: 33px;
+    }
+    .footer-main {
+        gap: 100px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .main-banner-section .inquery-form-main {
+        padding: 38px 88px 27px 62px;
+        background-color: #202020;
+    }
+    .main-banner-section .inquery-form-main .signature {
+        top: -280px;
+        left: 43px;
+        width: 347px;
+    }
+    .main-banner-section .inquery-form-main .social-icon {
+        margin-bottom: 40px;
+    }
+
+    .main-banner-section .inquery-form-main {
+        padding: 38px 88px 27px 62px;
+        max-width: 540px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .main-banner-section .inquery-form-main h1 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .main-banner-section .black-bg {
+        height: 576px;
+        width: 40%;
+    }
+
+    .main-banner-section {
+        background-size: 130%;
+        background-position: left top;
+        margin-bottom: 43px;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .content-section {
+        margin-bottom: 100px;
+    }
+
+    .video-section {
+        margin-bottom: 50px;
+    }
+
+    .video-section h2 {
+        font-size: 90px;
+        line-height: 112px;
+    }
+
+    .video-section .video-main {
+        margin-top: -32px;
+    }
+
+    .portfolio-section .portfolio-main {
+        margin-bottom: 30px;
+    }
+
+    .portfolio-section h3 {
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 30px;
+    }
+
+    .portfolio-section {
+        margin-bottom: 88px;
+    }
+
+    .partner-section {
+        margin-bottom: 50px;
+    }
+
+    .frame-finesse-main {
+        padding: 96px 100px 146px;
+    }
+
+    .frame-finesse-main h4 {
+        transform: translateX(-50%);
+        left: 50%;
+        font-size: 46px;
+        line-height: 101px;
+    }
+
+    .frame-finesse-section .mobile-image {
+        display: block;
+        text-align: center;
+    }
+    .frame-finesse-section {
+        background-image: none;
+    }
+
+    .frame-finesse-section .list-main {
+        display: flex;
+        flex-direction: column;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin-top: -100px;
+    }
+
+    .frame-finesse-main .list {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+    }
+
+    .instagram-section {
+        margin-top: 0px;
+        padding-top: 105px;
+        margin-bottom: 65px;
+    }
+
+
+    .instagram-slider .owl-nav {
+        top: -50px;
+        gap: 15px;
+    }
+
+    .instagram-section .instagram-slider.owl-carousel .item .video-icon img {
+        width: 40px;
+    }
+
+    .video-section .video-main .video-icon img, .portfolio-section .portfolio-main .portfolio-image .video-icon img {
+        width: 40px;
+    }
+
+    .footer-main {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        gap: 103px;
+        padding: 0 30px;
+        align-items: center;
+    }
+    .footer-main .footer-left {
+        padding-left: 0;
+        width: 100%;
+    }
+    .footer-main .footer-left .inquery-form {
+        padding: 0 92px;
+    }
+
+    .footer-section h4 {
+        font-size: 44px;
+        line-height: 60px;
+        padding-left: 30px;
+    }
+
+    .footer-main .footer-right {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .footer-main .footer-right .footer-sign {
+        bottom: 100px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .footer-main .footer-left .social {
+        margin-bottom: 30px;
+    }
+    .footer-main .footer-left p {
+        font-size: 20px;
+        line-height: 26px;
+        margin-bottom: 30px;
+    }
+
+    .footer-main .footer-left .social .social-left .social-box a {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .footer-main .footer-right span {
+        margin-right: 0;
+        text-align: center;
+        margin-top: 104px;
+    }
+    .footer-section {
+        margin-bottom: 50px;
+    }
+
+}
+
+@media(max-width: 767px) {
+    .partner-section h3 {
+        font-size: 46px;
+        line-height: 58px;
+        margin-bottom: 21px;
+        padding: 0 15px;
+    }
+    .portfolio-section .portfolio-main {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .partner-section {
+        margin-bottom: 0;
+    }
+
+    .frame-finesse-section {
+        background-size: contain;
+    }
+    .main-banner-section .inquery-form-main .social-icon {
+        display: none;
+    }
+    .frame-finesse-main .list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .frame-finesse-section .list-main .camera-image {
+        margin-top: -120px;
+    }
+
+    .instagram-section .instagram-slider.owl-carousel .item .insta-icon {
+        top: 10px;
+        right: 10px;
+    }
+    .video-section {
+        margin-bottom: 45px;
+    }
+    .portfolio-section h3 {
+        font-size: 46px;
+        line-height: 87px;
+        margin-bottom: 19px;
+    }
+    .video-section .video-main .video-icon img {
+        width: 30px;
+    }
+    .instagram-section .instagram-slider.owl-carousel .item .video-icon img, .portfolio-section .portfolio-main .portfolio-image .video-icon img {
+        width: 30px;
+    }
+    .footer-main {
+        padding: 0 15px;
+    }
+    .footer-section h4 {
+        font-size: 38px;
+        line-height: 53px;
+        padding: 0 42px;
+        text-align: center;
+        margin-bottom: 34px;
+    }
+
+    .footer-main .footer-left p {
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .footer-main .footer-left .social .icon-box {
+        display: none;
+    }
+    .footer-main .footer-left .social .social-left {
+        width: 100%;
+        align-items: center;
+    }
+    .footer-main .footer-left .inquery-form {
+        padding: 0 92px;
+    }
+    .inquery-popup .modal-content .modal-body h5 {
+        font-size: 32px;
+        line-height: 50px;
+    }
+    .inquery-popup.modal .modal-content {
+        padding: 40px;
+        background-color: #202020;
+    }
+    .instagram-slider .owl-nav {
+        display: none;
+    }
+}
+
+@media(max-width: 639px) {
+    .main-banner-section .black-bg {
+        height: 400px;
+    }
+    .main-banner-section .inquery-form-main .signature {
+        top: -230px;
+        left: 43px;
+        width: 250px;
+    }
+    .main-banner-section .inquery-form-main {
+        padding: 30px;
+    }
+    .content-section{
+        margin-bottom: 50px;
+    }
+    .video-section .video-main {
+        margin-top: -44px;
+    }
+    .inquery-popup .modal-content .modal-body p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .frame-finesse-main {
+        padding: 50px 50px 150px;
+        border-radius: 0;
+    }
+    .footer-main .footer-left .inquery-form {
+        padding: 0px;
+    }
+    .portfolio-section {
+        margin-bottom: 50px;
+    }
+    .video-section h2 {
+        font-size: 50px;
+        line-height: 105px;
+    }
+    .instagram-section {
+        margin-bottom: 50px;
+    }
+    .portfolio-section h3 {
+        font-size: 34px;
+        line-height: 52px;
+    }
+
+    .partner-section h3 {
+        font-size: 34px;
+        line-height: 52px;
+    }
+
+    .frame-finesse-main h4 {
+        font-size: 34px;
+        line-height: 52px;
+        top: -30px;
+    }
+
+    .frame-finesse-main .list {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .main-banner-section .inquery-form-main .social-icon .icon-box {
+        min-width: 30px;
+        max-width: 30px;
+        height: 30px;
+        padding: 7px;
+    }
+    .footer-section h4 {
+        font-size: 32px;
+        line-height: 46px;
+        padding: 0 30px;
+        text-align: center;
+        margin-bottom: 34px;
+    }
+    .footer-main .footer-left .social .icon-box {
+        min-width: 30px;
+        max-width: 30px;
+        height: 30px;
+        padding: 7px;
+    }
+
+    .inquery-form input,
+    .inquery-form textarea {
+        padding: 12px 15px;
+    }
+}
